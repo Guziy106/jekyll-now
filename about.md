@@ -1,15 +1,32 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+## 👋 你好，我是李秋奇
 
-### More Information
+欢迎来到我的个人空间！
 
-A place to include any other types of information that you'd like to include about yourself.
+我是一名对教育科技 (EdTech) 充满热情的探索者和实践者，始终相信技术能够为教育带来积极的变革。我致力于探索和分享如何在教学中有效地融合创新工具与理念，让学习变得更加生动、高效和个性化。
 
-### Contact me
+在这个网站，我主要会分享：
 
-[email@domain.com](mailto:email@domain.com)
+* 我对教育科技发展的思考与观察
+* 一些教学实践中的案例与反思
+* 个人学习成长过程中的点滴记录
+* 我的业余兴趣和生活感悟
+
+**我的目标是：**
+
+* 不断学习，提升专业能力
+* 与志同道合的朋友交流、碰撞思想
+* 为教育领域贡献自己微薄的力量
+
+**核心价值：**
+
+* **持续学习:** 对未知保持好奇。
+* **乐于分享:** 知识因分享而增值。
+* **拥抱创新:** 勇于尝试新的可能性。
+
+希望这里的内容能给你带来一些启发。如果你有任何想法或建议，非常欢迎通过 [链接到你的联系方式页面] 与我联系！
